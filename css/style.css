@@ -240,7 +240,11 @@ h1 {   /*centralizando titulo*/
 
 }
 
-
+.subtitulo h4 {
+  font-family: "Comic Sans MS", "Calibri", Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size:125%;
+}
 .menu-icon {
   cursor: pointer;
  
